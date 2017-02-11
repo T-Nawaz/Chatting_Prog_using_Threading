@@ -1,1 +1,2 @@
-# Chatting_Prog_using_Threading
+# Chatting Program using _Threading
+Experimeting with threads and multi-user chat system
